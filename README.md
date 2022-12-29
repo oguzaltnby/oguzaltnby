@@ -8,12 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=oguzaltnby&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oguzaltnby&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzaltnby&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=oguzaltnby&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
 
