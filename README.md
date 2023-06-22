@@ -4,4 +4,6 @@
 
 ###
 
-![Snake animation](https://github.com/oguzaltnby/oguzaltnby/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/oguzaltnby/oguzaltnby/output/snake.svg" alt="Snake animation" />
+
+###
