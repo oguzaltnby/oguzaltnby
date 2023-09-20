@@ -1,9 +1,5 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/6c/6b/cc/6c6bcc17d6175785b34252c255d145a9.gif"  />
-</div>
-
-###
-
-![Snake animation](https://github.com/oguzaltnby/oguzaltnby/blob/output/github-contribution-grid-snake.svg)
-
-###
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=schvefel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=schvefel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schvefel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schvefel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schvefel&theme=2077" height="180em" />
