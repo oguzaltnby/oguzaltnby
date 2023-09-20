@@ -3,7 +3,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schvefel&theme=" alt="schvefel" /></a> </p>
 
 
-- 📫 How to reach me **oguzhanaltunbey3@gmail.com**
 
 <div> <a href="https://github.com/schvefel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:oguzhanaltunbey3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
