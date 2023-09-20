@@ -13,7 +13,7 @@
 </p>
 
 
-<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=schvefel&theme=dracula" alt="schvefel" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schvefel&layout=compact&theme=dracula" alt=schvefel /> </p>
+<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=schvefel&theme=dracula" alt="schvefel" /></p>
 <div align="center">
 <a href="https://github.com/schvefel">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=schvefel&theme=2077" height="180em" />
