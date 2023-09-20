@@ -11,9 +11,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schvefel&layout=compact&theme=dracula" alt=schvefel />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=schvefel&theme=dracula" alt="schvefel" /></p>
+
+<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=schvefel&theme=dracula" alt="schvefel" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schvefel&layout=compact&theme=dracula" alt=schvefel /> </p>
 <div align="center">
 <a href="https://github.com/schvefel">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=schvefel&theme=2077" height="180em" />
