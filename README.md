@@ -14,4 +14,4 @@
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schvefel&layout=compact&theme=dracula" alt=schvefel /></p>
 <div align="center">
 </div>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=schvefel&theme=dracula"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzaltnby&theme=dracula"/>
