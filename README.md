@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schvefel&layout=compact&theme=dracula" alt=schvefel /></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzaltnby&layout=compact&theme=dracula" alt=schvefel /></p>
 <div align="center">
 </div>
 
