@@ -5,7 +5,7 @@
 
 In the overview below you'll find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.kumport.com.tr/resources/files/logo.png"/>](https://www.kumport.com.tr/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllY6n883S16LvtM34ZsMVLEs_B2lER61lTg&s"/>](https://www.kumport.com.tr/)
 
 **Software Intern** \
 [**Kumport**](https://www.kumport.com.tr/) • Full-time \
