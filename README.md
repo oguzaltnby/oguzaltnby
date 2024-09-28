@@ -3,14 +3,14 @@
 
   ### Experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you'll find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.kumport.com.tr/resources/files/logo.png"/>](https://www.kumport.com.tr/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**Software Intern** \
+[**Kumport**](https://www.kumport.com.tr/) • Full-time \
+Languages & Technologies: `TypeScript`, `JavaScript`, `C#`, `.NET`, `Angular`,\
+Featured projects: [BlogSite](https://www.ahmetturanpolat.com/), [WebSite]()
 <br/>
 
 ### Education
