@@ -15,12 +15,12 @@ Featured projects: [BlogSite](https://www.ahmetturanpolat.com/), [WebSite]()
 
 ### Education
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86FR0fkshH9m2kLURQq8QL1M9YAAIodEDSQ&s"/>](https://borusan.meb.k12.tr/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Information Technology** \
+[**Borusan Asım Kocabıyık Vocational and Technical Anatolian High School**](https://borusan.meb.k12.tr/) • Education \
+Languages & Technologies: `JavaScript`, `Php`, `C#`,`Python`,`Dart`,`Flutter`,`MySQL`,`C`\
+Featured projects: [Flutter App](), [WebSite]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
