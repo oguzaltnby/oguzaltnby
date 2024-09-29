@@ -23,13 +23,12 @@ Languages & Technologies: `JavaScript`, `Php`, `C#`,`Python`,`Dart`,`Flutter`,`M
 Featured projects: [Flutter App](), [WebSite]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C4%B0stanbul_Arel_University_logo.svg/1200px-%C4%B0stanbul_Arel_University_logo.svg.png"/>](https://arel.edu.tr/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Computer Engineering** \
+[**Arel University**](https://arel.edu.tr/) • Education \
+Languages & Technologies: `-`, `-`, `-`, `-`, `-` \
+Featured projects: [-]()
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
